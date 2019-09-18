@@ -1,4 +1,4 @@
-# businesscard
+# Business Card
 
 Faux business card with CSS styling
 
